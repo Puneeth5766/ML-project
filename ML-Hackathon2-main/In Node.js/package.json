@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node cetp.js",
+    "server": "node cetp.js server",
+    "send": "node cetp.js send"
+  },
+  "dependencies": {
+    "@mongodb-js/zstd": "^7.0.0",
+    "yargs": "^18.0.0"
+  }
+}
